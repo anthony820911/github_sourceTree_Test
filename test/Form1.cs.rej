@@ -1,0 +1,9 @@
+diff a/test/Form1.cs b/test/Form1.cs	(rejected hunks)
+@@ -20,6 +20,7 @@
+         private void Form1_Load(object sender, EventArgs e)
+         {
+             this.Text = "test1";
++
+             //test
+         }
+     }

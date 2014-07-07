@@ -19,9 +19,10 @@ namespace test
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.Text = "test1";
 
-            //test
+            this.Text = "test";
+            MessageBox.Show("ABC2");
+            //merge
         }
     }
 }
